@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_calculadora"
+        android:icon="@drawable/ic_action_home"
+        android:title="Inicio" />
+
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_action_seting"
+        android:title="Ajustes" />
+</menu>
